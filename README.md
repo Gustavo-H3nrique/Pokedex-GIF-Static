@@ -23,6 +23,7 @@ Este projeto foi construído com o "trio parada dura" do Front-end:
 
 ## 📸 Demonstração
 
+![PrintPokedex](https://github.com/user-attachments/assets/89e60c67-198b-4530-b81c-b9a5cced7abe)
 
 
 
