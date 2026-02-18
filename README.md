@@ -31,14 +31,17 @@ Este projeto foi construído com o "trio parada dura" do Front-end:
 
 ## 🛠️ Como executar o projeto
 
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static.git](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static.git)
-2. Entre na pasta do projeto:
+1.  Clone este repositório:
+    ```bash
+    git clone [https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static.git](https://github.com/Gustavo-H3nrique/Pokedex-GIF-Static.git)
+    ```
+2.  Navegue até a pasta do projeto:
+    ```bash
+    cd Pokedex-GIF-Static
+    ```
+3.  Abra o arquivo `index.html` no seu navegador favorito.
 
-Bash
-cd Pokedex-GIF-Static
-3.Abra o ficheiro index.html no seu navegador.
+---
 
 ✍️ Autor
 Desenvolvido por Gustavo Henrique.
@@ -46,4 +49,5 @@ Desenvolvido por Gustavo Henrique.
 ⭐ Se gostaste deste projeto, deixa uma estrela no repositório!
 Conecte-se comigo no LinkedIn (https://www.linkedin.com/in/gustavoh3nrique/)!
 
+---
 ✨ *Sinta-se à vontade para contribuir com este projeto fazendo um Fork ou abrindo uma Issue!*
