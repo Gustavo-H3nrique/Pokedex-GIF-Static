@@ -43,11 +43,11 @@ Este projeto foi construído com o "trio parada dura" do Front-end:
 
 ---
 
-✍️ Autor
+## ✍️ Autor
 Desenvolvido por Gustavo Henrique.
 
 ⭐ Se gostaste deste projeto, deixa uma estrela no repositório!
-Conecte-se comigo no LinkedIn (https://www.linkedin.com/in/gustavoh3nrique/)!
+## Conecte-se comigo no LinkedIn (https://www.linkedin.com/in/gustavoh3nrique/)!
 
 ---
 ✨ *Sinta-se à vontade para contribuir com este projeto fazendo um Fork ou abrindo uma Issue!*
