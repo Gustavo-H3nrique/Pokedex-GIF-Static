@@ -29,6 +29,7 @@ Este projeto foi construído com o "trio parada dura" do Front-end:
 
 
 
+Projeto rodando - https://gustavo-h3nrique.github.io/Pokedex-GIF-Static/
 ## 🛠️ Como executar o projeto
 
 1.  Clone este repositório:
